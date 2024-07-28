@@ -1,2 +1,2 @@
 # GANs-Implementation-Pytorch
-GANs Implementation
+GANs Implementation, Generate Anime Images Using GANs
